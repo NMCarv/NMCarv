@@ -4,13 +4,7 @@ Engineer & builder from Portugal 🇵🇹
 Working at the intersection of **systems engineering**, **AI**, **cryptography**, and **on-chain financial infrastructure**.
 I build things that are fast, trustworthy, and actually used.
 
----
-
 ## 🔭 What I’m Working On
-
-### **Secure & Private Compute**
-
-Designing next-generation confidential compute architectures using MPC, garbled circuits, selective homomorphism and ZK-friendly primitives.
 
 ### **On-Chain Capital & Risk Systems**
 
@@ -23,8 +17,6 @@ Creating pipelines for large-scale embeddings, clustering, semantic enrichment a
 ### **High-Performance Backend & Distributed Systems**
 
 Architecting systems that handle large throughput, real-time data and hybrid off-chain/on-chain computation.
-
----
 
 ## 🛠️ Technical Focus
 
@@ -57,9 +49,7 @@ Large-scale social/market data enrichment
 Next.js · React · Tailwind
 Internal tooling, dashboards, SDKs, developer-oriented UX
 
----
-
-## ✨ Things I Build
+## ✨ Things I Built
 
 * Private compute systems and cryptographic tooling
 * On-chain capital, risk and analytics engines
@@ -67,16 +57,12 @@ Internal tooling, dashboards, SDKs, developer-oriented UX
 * High-performance backend architectures
 * SDKs, internal platforms, and developer tooling
 
----
-
 ## 🌱 Currently Exploring
 
 * Confidential execution in hybrid on-chain/off-chain systems
 * Scalable AI clustering + semantic enrichment pipelines
 * Real-time analytics for capital flows and multi-chain activity
 * Applied cryptography for programmable privacy
-
----
 
 ## 🧭 How I Think
 
@@ -87,8 +73,6 @@ I like challenges that sit at the edge of feasibility - where:
 * AI needs to be **explanatory**,
 * blockchains need to be **practical**,
 * and software has to be **beautifully engineered**.
-
----
 
 ## 🤝 Let’s Connect
 
