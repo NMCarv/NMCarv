@@ -1,35 +1,96 @@
-# 👋 Hi, I'm Nuno
+# 🚀 Hi, I'm Nuno
 
-I'm a builder from Portugal 🇵🇹 working at the intersection of **cryptography**, **decentralized systems**, and **privacy-preserving compute**. I do full-stack development and infrastructure from time to time too.
-
-## 🧠 What I’m Working On
-
-Currently, I’m building a decentralized private compute protocol based on **performant, verifiable MPC technology** supporting **confidential arithmetic operations** on integers and booleans.
-
-## 💼 My Technical Stack
-- **Languages**: Rust · Go · TypeScript · Solidity · JavaScript
-- **Cryptography**: Garbled Circuits (WRK17) · MPC (Shamir) · ElGamal · ECDSA
-- **Smart Contracts**: Ethereum (Remix) · Solana · L2-ready architecture
-- **Systems**: IPFS · SeaweedFS · Decentralized Identity (DIDs)
-- **Tooling**: GitHub Actions · Docker · Postman · Vite · Tailwind · React · Next.js
-- **Cloud**: Amazon Web Services (AWS) · Google Cloud Platform (GCP)
-
-## 📈 Goals
-- Prove real-world usability of private compute beyond academia.
-- Open-source meaningful components of the protocol for collaboration.
-- Help shift the industry toward **user-sovereign computation and storage**.
-
-## 🌱 Currently Exploring
-- Multiparty computation for multi-user private compute flows.
-- Advanced circuit optimizations to reduce round complexity.
-- zk-SNARK integration for compact verifiability of circuit outputs.
-
-## 🤝 Let’s Connect
-Whether you're a cryptography nerd, systems engineer, or privacy advocate — I’m always open to chat.
-
-- Twitter: [@nmcarv](https://twitter.com/nmcarv)
-- LinkedIn: [Nuno Carvalho](https://linkedin.com/in/nmcarv)
+Engineer & builder from Portugal 🇵🇹
+Working at the intersection of **systems engineering**, **AI**, **cryptography**, and **on-chain financial infrastructure**.
+I build things that are fast, trustworthy, and actually used.
 
 ---
 
-_“Build for the world you want to live in — one where privacy, performance, and usability are not mutually exclusive.”_
+## 🔭 What I’m Working On
+
+### **Secure & Private Compute**
+
+Designing next-generation confidential compute architectures using MPC, garbled circuits, selective homomorphism and ZK-friendly primitives.
+
+### **On-Chain Capital & Risk Systems**
+
+Building analytics engines, token mechanics, risk models and liquidity flows for real-world financial infrastructure that operates transparently on-chain.
+
+### **AI-Driven Data Intelligence**
+
+Creating pipelines for large-scale embeddings, clustering, semantic enrichment and trend detection from high-volume social and market datasets.
+
+### **High-Performance Backend & Distributed Systems**
+
+Architecting systems that handle large throughput, real-time data and hybrid off-chain/on-chain computation.
+
+---
+
+## 🛠️ Technical Focus
+
+### **Systems Engineering & Backend**
+
+Distributed systems · microservices · high-performance APIs
+PostgreSQL · ClickHouse · Redis · streaming & ETL pipelines
+Cloud infrastructure (AWS/GCP) · observability · CI/CD automation
+
+### **Cryptography & Secure Compute**
+
+MPC (Shamir) · Garbled circuits (WRK17) · ElGamal
+Partial homomorphic encryption · threat modelling
+Confidential compute designs · verifiable execution flows
+
+### **Blockchain & On-Chain Architecture**
+
+Ethereum (Solidity/Foundry) · Solana
+Token models · data indexing · hybrid compute
+Economic modelling · risk/valuation engines
+
+### **AI, ML & Data Intelligence**
+
+Embeddings · semantic search · clustering
+RAG pipelines · LLM orchestration · trend detection
+Large-scale social/market data enrichment
+
+### **Frontend & Developer Experience**
+
+Next.js · React · Tailwind
+Internal tooling, dashboards, SDKs, developer-oriented UX
+
+---
+
+## ✨ Things I Build
+
+* Private compute systems and cryptographic tooling
+* On-chain capital, risk and analytics engines
+* AI pipelines for semantic understanding & trend analysis
+* High-performance backend architectures
+* SDKs, internal platforms, and developer tooling
+
+---
+
+## 🌱 Currently Exploring
+
+* Confidential execution in hybrid on-chain/off-chain systems
+* Scalable AI clustering + semantic enrichment pipelines
+* Real-time analytics for capital flows and multi-chain activity
+* Applied cryptography for programmable privacy
+
+---
+
+## 🧭 How I Think
+
+I like challenges that sit at the edge of feasibility - where:
+
+* systems need to be **efficient**,
+* cryptography needs to be **usable**,
+* AI needs to be **explanatory**,
+* blockchains need to be **practical**,
+* and software has to be **beautifully engineered**.
+
+---
+
+## 🤝 Let’s Connect
+
+* Twitter: **[@nmcarv](https://twitter.com/nmcarv)**
+* LinkedIn: **Nuno Carvalho**
