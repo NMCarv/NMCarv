@@ -43,6 +43,6 @@ If you’re looking for something specific, feel free to reach out — happy to 
 
 ## Links
 
-- Website: [https://nmcarv.com]
-- X/Twitter: [https://twitter.com/nmcarv]
+- Website: [https://nmcarv.com](https://nmcarv.com)
+- X/Twitter: [https://twitter.com/nmcarv](https://twitter.com/nmcarv)
 - LinkedIn: [Nuno Carvalho](https://www.linkedin.com/in/nmcarv/)
